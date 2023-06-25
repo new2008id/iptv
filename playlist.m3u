@@ -1,0 +1,688 @@
+#EXTM3U url-tvg="http://epg.g-cdn.app/xmltv.xml.gz" catchup-type="shift"
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://static.g-cdn.app/streams/pervyj.png" tvg-rec="0",Первый канал
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/pervyj/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija1" tvg-logo="http://static.g-cdn.app/streams/rossija1.png" tvg-rec="0",Россия 1
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/rossija1/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="http://static.g-cdn.app/streams/ntv.png" tvg-rec="0",НТВ
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/ntv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="http://static.g-cdn.app/streams/ntv-mir.png" tvg-rec="0",НТВ Мир
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/ntv-mir/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="http://static.g-cdn.app/streams/TNT.png" tvg-rec="0",ТНТ
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/TNT/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-4" tvg-logo="http://static.g-cdn.app/streams/tnt-4.png" tvg-rec="0",ТНТ4
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/tnt-4/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="CTC" tvg-logo="http://static.g-cdn.app/streams/CTC.png" tvg-rec="0",СТС
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/CTC/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="sts-love" tvg-logo="http://static.g-cdn.app/streams/sts-love.png" tvg-rec="0",СТС Love
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/sts-love/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij" tvg-logo="http://static.g-cdn.app/streams/domashnij.png" tvg-rec="0",Домашний
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/domashnij/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="perec" tvg-logo="http://static.g-cdn.app/streams/perec.png" tvg-rec="0",Перец
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/perec/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv" tvg-logo="http://static.g-cdn.app/streams/ren-tv.png" tvg-rec="0",РЕН ТВ
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/ren-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv-3" tvg-logo="http://static.g-cdn.app/streams/tv-3.png" tvg-rec="0",ТВ3
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/tv-3/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="4e" tvg-logo="http://static.g-cdn.app/streams/4e.png" tvg-rec="0",Че
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/4e/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda" tvg-logo="http://static.g-cdn.app/streams/zvezda.png" tvg-rec="0",Звезда
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/zvezda/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus" tvg-logo="http://static.g-cdn.app/streams/zvezda-plus.png" tvg-rec="0",Звезда Плюс
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/zvezda-plus/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="tvc" tvg-logo="http://static.g-cdn.app/streams/tvc.png" tvg-rec="0",ТВЦ
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/tvc/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="centralnoe-tv" tvg-logo="http://static.g-cdn.app/streams/centralnoe-tv.png" tvg-rec="0",Центральное телевидение
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/centralnoe-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="5kanal" tvg-logo="http://static.g-cdn.app/streams/5kanal.png" tvg-rec="0",5 канал
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/5kanal/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k" tvg-logo="http://static.g-cdn.app/streams/rossija-k.png" tvg-rec="0",Россия Культура
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/rossija-k/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="moskva-doverie" tvg-logo="http://static.g-cdn.app/streams/moskva-doverie.png" tvg-rec="0",Москва Доверие
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/moskva-doverie/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="souz" tvg-logo="http://static.g-cdn.app/streams/souz.png" tvg-rec="0",Союз
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/souz/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="spas" tvg-logo="http://static.g-cdn.app/streams/spas.png" tvg-rec="0",Спас
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/spas/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="krasnaja-linija" tvg-logo="http://static.g-cdn.app/streams/krasnaja-linija.png" tvg-rec="0",Красная линия
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/krasnaja-linija/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="8-kanal" tvg-logo="http://static.g-cdn.app/streams/8-kanal.png" tvg-rec="0",8 канал
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/8-kanal/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="9-kanal" tvg-logo="http://static.g-cdn.app/streams/9-kanal.png" tvg-rec="0",9 Канал
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/9-kanal/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="otp" tvg-logo="http://static.g-cdn.app/streams/otp.png" tvg-rec="0",ОТР
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/otp/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir" tvg-logo="http://static.g-cdn.app/streams/mir.png" tvg-rec="0",Мир
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/mir/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24" tvg-logo="http://static.g-cdn.app/streams/mir-24.png" tvg-rec="0",Мир 24
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/mir-24/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="sarafan" tvg-logo="http://static.g-cdn.app/streams/sarafan.png" tvg-rec="0",Сарафан
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/sarafan/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork" tvg-logo="http://static.g-cdn.app/streams/gagsnetwork.png" tvg-rec="0",Gagsnetwork
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/gagsnetwork/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="kvn-tv" tvg-logo="http://static.g-cdn.app/streams/kvn-tv.png" tvg-rec="0",КВН ТВ
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/kvn-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica" tvg-logo="http://static.g-cdn.app/streams/piatnica.png" tvg-rec="0",Пятница
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/piatnica/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="super" tvg-logo="http://static.g-cdn.app/streams/super.png" tvg-rec="0",Суббота
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/super/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="podmoskovje" tvg-logo="http://static.g-cdn.app/streams/podmoskovje.png" tvg-rec="0",Телеканал 360
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/podmoskovje/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="yu-tv" tvg-logo="http://static.g-cdn.app/streams/yu-tv.png" tvg-rec="0",Ю ТВ
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/yu-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="vremya" tvg-logo="http://static.g-cdn.app/streams/vremya.png" tvg-rec="0",Время
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/vremya/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="rt-doc" tvg-logo="http://static.g-cdn.app/streams/rt-doc.png" tvg-rec="0",RT Док
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/rt-doc/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="rtvi" tvg-logo="http://static.g-cdn.app/streams/rtvi.png" tvg-rec="0",RTVi
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/rtvi/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd" tvg-logo="http://static.g-cdn.app/streams/dozhd.png" tvg-rec="0",Дождь
+#EXTGRP:Общероссийские
+http://s06.wsbof.com/dozhd/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="rossija24" tvg-logo="http://static.g-cdn.app/streams/rossija24.png" tvg-rec="0",Россия 24
+#EXTGRP:Новости
+http://s06.wsbof.com/rossija24/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="evronews" tvg-logo="http://static.g-cdn.app/streams/evronews.png" tvg-rec="0",EuroNews
+#EXTGRP:Новости
+http://s06.wsbof.com/evronews/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="izvestija" tvg-logo="http://static.g-cdn.app/streams/izvestija.png" tvg-rec="0",Известия
+#EXTGRP:Новости
+http://s06.wsbof.com/izvestija/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="moskva-24" tvg-logo="http://static.g-cdn.app/streams/moskva-24.png" tvg-rec="0",Москва 24
+#EXTGRP:Новости
+http://s06.wsbof.com/moskva-24/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="rbk" tvg-logo="http://static.g-cdn.app/streams/rbk.png" tvg-rec="0",РБК
+#EXTGRP:Новости
+http://s06.wsbof.com/rbk/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="rt-english" tvg-logo="http://static.g-cdn.app/streams/rt-english.png" tvg-rec="0",RT
+#EXTGRP:Новости
+http://s06.wsbof.com/rt-english/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk" tvg-logo="http://static.g-cdn.app/streams/sky-news-uk.png" tvg-rec="0",Sky News
+#EXTGRP:Новости
+http://s06.wsbof.com/sky-news-uk/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news" tvg-logo="http://static.g-cdn.app/streams/bbc-world-news.png" tvg-rec="0",BBC World
+#EXTGRP:Новости
+http://s06.wsbof.com/bbc-world-news/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Новости" tvg-id="cnn" tvg-logo="http://static.g-cdn.app/streams/cnn.png" tvg-rec="0",CNN
+#EXTGRP:Новости
+http://s06.wsbof.com/cnn/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="http://static.g-cdn.app/streams/kinohit.png" tvg-rec="0",Кинохит
+#EXTGRP:Кино
+http://s06.wsbof.com/kinohit/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kinomix" tvg-logo="http://static.g-cdn.app/streams/kinomix.png" tvg-rec="0",Киномикс
+#EXTGRP:Кино
+http://s06.wsbof.com/kinomix/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja" tvg-logo="http://static.g-cdn.app/streams/kinosemja.png" tvg-rec="0",Киносемья
+#EXTGRP:Кино
+http://s06.wsbof.com/kinosemja/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije" tvg-logo="http://static.g-cdn.app/streams/kinosvidanije.png" tvg-rec="0",Киносвидание
+#EXTGRP:Кино
+http://s06.wsbof.com/kinosvidanije/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv" tvg-logo="http://static.g-cdn.app/streams/mnogo-tv.png" tvg-rec="0",Киносерия
+#EXTGRP:Кино
+http://s06.wsbof.com/mnogo-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz" tvg-logo="http://static.g-cdn.app/streams/kinopokaz.png" tvg-rec="0",Кинопоказ
+#EXTGRP:Кино
+http://s06.wsbof.com/kinopokaz/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="tv1000" tvg-logo="http://static.g-cdn.app/streams/tv1000.png" tvg-rec="0",Viju TV1000
+#EXTGRP:Кино
+http://s06.wsbof.com/tv1000/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action" tvg-logo="http://static.g-cdn.app/streams/tv1000-action.png" tvg-rec="0",Viju TV1000 action
+#EXTGRP:Кино
+http://s06.wsbof.com/tv1000-action/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-ru-kino" tvg-logo="http://static.g-cdn.app/streams/tv1000-ru-kino.png" tvg-rec="0",Viju TV1000 русское
+#EXTGRP:Кино
+http://s06.wsbof.com/tv1000-ru-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino" tvg-logo="http://static.g-cdn.app/streams/tv1000-world-kino.png" tvg-rec="0",TV1000 World Kino
+#EXTGRP:Кино
+http://s06.wsbof.com/tv1000-world-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="cinema" tvg-logo="http://static.g-cdn.app/streams/cinema.png" tvg-rec="0",Cinema
+#EXTGRP:Кино
+http://s06.wsbof.com/cinema/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv" tvg-logo="http://static.g-cdn.app/streams/kino-tv.png" tvg-rec="0",Кино ТВ
+#EXTGRP:Кино
+http://s06.wsbof.com/kino-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="start-world" tvg-logo="http://static.g-cdn.app/streams/start-world.png" tvg-rec="0",Start World
+#EXTGRP:Кино
+http://s06.wsbof.com/start-world/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="start-air" tvg-logo="http://static.g-cdn.app/streams/start-air.png" tvg-rec="0",Start Air
+#EXTGRP:Кино
+http://s06.wsbof.com/start-air/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="plan-b" tvg-logo="http://static.g-cdn.app/streams/plan-b.png" tvg-rec="0",Plan B
+#EXTGRP:Кино
+http://s06.wsbof.com/plan-b/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="http://static.g-cdn.app/streams/evrokino.png" tvg-rec="0",Еврокино
+#EXTGRP:Кино
+http://s06.wsbof.com/evrokino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="flix-snip" tvg-logo="http://static.g-cdn.app/streams/flix-snip.png" tvg-rec="0",Flix Snip
+#EXTGRP:Кино
+http://s06.wsbof.com/flix-snip/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="http://static.g-cdn.app/streams/egoist-tv.png" tvg-rec="0",SHOT TV
+#EXTGRP:Кино
+http://s06.wsbof.com/egoist-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://static.g-cdn.app/streams/muzhskoe-kino.png" tvg-rec="0",Мужское кино
+#EXTGRP:Кино
+http://s06.wsbof.com/muzhskoe-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="Scream" tvg-logo="http://static.g-cdn.app/streams/Scream.png" tvg-rec="0",Scream
+#EXTGRP:Кино
+http://s06.wsbof.com/Scream/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="http://static.g-cdn.app/streams/hct.png" tvg-rec="0",НСТ
+#EXTGRP:Кино
+http://s06.wsbof.com/hct/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="http://static.g-cdn.app/streams/russkaja-comedija.png" tvg-rec="0",Комедия
+#EXTGRP:Кино
+http://s06.wsbof.com/russkaja-comedija/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia" tvg-logo="http://static.g-cdn.app/streams/kinokomedia.png" tvg-rec="0",Кинокомедия
+#EXTGRP:Кино
+http://s06.wsbof.com/kinokomedia/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium" tvg-logo="http://static.g-cdn.app/streams/amedia-premium.png" tvg-rec="0",Amedia Premium
+#EXTGRP:Кино
+http://s06.wsbof.com/amedia-premium/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit" tvg-logo="http://static.g-cdn.app/streams/amedia-hit.png" tvg-rec="0",Amedia Hit
+#EXTGRP:Кино
+http://s06.wsbof.com/amedia-hit/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="amedia-1" tvg-logo="http://static.g-cdn.app/streams/amedia-1.png" tvg-rec="0",A1
+#EXTGRP:Кино
+http://s06.wsbof.com/amedia-1/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2" tvg-logo="http://static.g-cdn.app/streams/amedia-2.png" tvg-rec="0",A2
+#EXTGRP:Кино
+http://s06.wsbof.com/amedia-2/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="fox" tvg-logo="http://static.g-cdn.app/streams/fox.png" tvg-rec="0",FOX
+#EXTGRP:Кино
+http://s06.wsbof.com/fox/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="fox-life" tvg-logo="http://static.g-cdn.app/streams/fox-life.png" tvg-rec="0",Fox Life
+#EXTGRP:Кино
+http://s06.wsbof.com/fox-life/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="set" tvg-logo="http://static.g-cdn.app/streams/set.png" tvg-rec="0",Red
+#EXTGRP:Кино
+http://s06.wsbof.com/set/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="sony-sci-fi" tvg-logo="http://static.g-cdn.app/streams/sony-sci-fi.png" tvg-rec="0",Sci-Fi
+#EXTGRP:Кино
+http://s06.wsbof.com/sony-sci-fi/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="sony-turbo" tvg-logo="http://static.g-cdn.app/streams/sony-turbo.png" tvg-rec="0",Black
+#EXTGRP:Кино
+http://s06.wsbof.com/sony-turbo/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="tv-xxi" tvg-logo="http://static.g-cdn.app/streams/tv-xxi.png" tvg-rec="0",TV XXI
+#EXTGRP:Кино
+http://s06.wsbof.com/tv-xxi/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="mosfilm" tvg-logo="http://static.g-cdn.app/streams/mosfilm.png" tvg-rec="0",Мосфильм
+#EXTGRP:Кино
+http://s06.wsbof.com/mosfilm/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="http://static.g-cdn.app/streams/lubimoe-kino.png" tvg-rec="0",Любимое Кино
+#EXTGRP:Кино
+http://s06.wsbof.com/lubimoe-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino" tvg-logo="http://static.g-cdn.app/streams/rodnoje_kino.png" tvg-rec="0",Родное кино
+#EXTGRP:Кино
+http://s06.wsbof.com/rodnoje_kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="pobeda" tvg-logo="http://static.g-cdn.app/streams/pobeda.png" tvg-rec="0",Победа
+#EXTGRP:Кино
+http://s06.wsbof.com/pobeda/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="http://static.g-cdn.app/streams/nashe-novoe-kino.png" tvg-rec="0",Наше новое кино
+#EXTGRP:Кино
+http://s06.wsbof.com/nashe-novoe-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller" tvg-logo="http://static.g-cdn.app/streams/russkij-bestseller.png" tvg-rec="0",Русский Бестселлер
+#EXTGRP:Кино
+http://s06.wsbof.com/russkij-bestseller/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino" tvg-logo="http://static.g-cdn.app/streams/dom-kino.png" tvg-rec="0",Дом Кино
+#EXTGRP:Кино
+http://s06.wsbof.com/dom-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman" tvg-logo="http://static.g-cdn.app/streams/russkij-roman.png" tvg-rec="0",Русский Роман
+#EXTGRP:Кино
+http://s06.wsbof.com/russkij-roman/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv" tvg-logo="http://static.g-cdn.app/streams/russkij-detektiv.png" tvg-rec="0",Русский Детектив
+#EXTGRP:Кино
+http://s06.wsbof.com/russkij-detektiv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion" tvg-logo="http://static.g-cdn.app/streams/russkij-iluzion.png" tvg-rec="0",Русский Иллюзион
+#EXTGRP:Кино
+http://s06.wsbof.com/russkij-iluzion/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus" tvg-logo="http://static.g-cdn.app/streams/iluzion-plus.png" tvg-rec="0",Иллюзион +
+#EXTGRP:Кино
+http://s06.wsbof.com/iluzion-plus/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="http://static.g-cdn.app/streams/feniks-plus-kino.png" tvg-rec="0",Феникс+Кино
+#EXTGRP:Кино
+http://s06.wsbof.com/feniks-plus-kino/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="mir-seriala" tvg-logo="http://static.g-cdn.app/streams/mir-seriala.png" tvg-rec="0",Мир Сериала
+#EXTGRP:Кино
+http://s06.wsbof.com/mir-seriala/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="ntv-hit" tvg-logo="http://static.g-cdn.app/streams/ntv-hit.png" tvg-rec="0",НТВ Хит
+#EXTGRP:Кино
+http://s06.wsbof.com/ntv-hit/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="ntv-serial" tvg-logo="http://static.g-cdn.app/streams/ntv-serial.png" tvg-rec="0",НТВ Сериал
+#EXTGRP:Кино
+http://s06.wsbof.com/ntv-serial/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="nostalgia" tvg-logo="http://static.g-cdn.app/streams/nostalgia.png" tvg-rec="0",Ностальгия
+#EXTGRP:Кино
+http://s06.wsbof.com/nostalgia/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="retro" tvg-logo="http://static.g-cdn.app/streams/retro.png" tvg-rec="0",Ретро ТВ
+#EXTGRP:Кино
+http://s06.wsbof.com/retro/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="indija-tv" tvg-logo="http://static.g-cdn.app/streams/indija-tv.png" tvg-rec="0",Индийское Кино
+#EXTGRP:Кино
+http://s06.wsbof.com/indija-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Кино" tvg-id="zee-tv" tvg-logo="http://static.g-cdn.app/streams/zee-tv.png" tvg-rec="0",Индия ТВ
+#EXTGRP:Кино
+http://s06.wsbof.com/zee-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol" tvg-logo="http://static.g-cdn.app/streams/nash-futbol.png" tvg-rec="0",Матч Премьер
+#EXTGRP:Спорт
+http://s06.wsbof.com/nash-futbol/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="futbol" tvg-logo="http://static.g-cdn.app/streams/futbol.png" tvg-rec="0",Футбол
+#EXTGRP:Спорт
+http://s06.wsbof.com/futbol/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1" tvg-logo="http://static.g-cdn.app/streams/match-futbol-1.png" tvg-rec="0",МАТЧ! Футбол 1
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-futbol-1/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2" tvg-logo="http://static.g-cdn.app/streams/match-futbol-2.png" tvg-rec="0",МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-futbol-2/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3" tvg-logo="http://static.g-cdn.app/streams/match-futbol-3.png" tvg-rec="0",МАТЧ! Футбол 3
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-futbol-3/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match" tvg-logo="http://static.g-cdn.app/streams/match.png" tvg-rec="0",Матч ТВ
+#EXTGRP:Спорт
+http://s06.wsbof.com/match/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://static.g-cdn.app/streams/match-igra.png" tvg-rec="0",Матч! Игра
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-igra/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://static.g-cdn.app/streams/match-arena.png" tvg-rec="0",Матч! Арена
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-arena/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="http://static.g-cdn.app/streams/match-nash-sport.png" tvg-rec="0",Матч! Страна
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-nash-sport/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-planeta" tvg-logo="http://static.g-cdn.app/streams/match-planeta.png" tvg-rec="0",Матч! Планета
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-planeta/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv" tvg-logo="http://static.g-cdn.app/streams/khl-tv.png" tvg-rec="0",KHL
+#EXTGRP:Спорт
+http://s06.wsbof.com/khl-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="mir-basketbola" tvg-logo="http://static.g-cdn.app/streams/mir-basketbola.png" tvg-rec="0",Мир Баскетбола
+#EXTGRP:Спорт
+http://s06.wsbof.com/mir-basketbola/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-baltic" tvg-logo="http://static.g-cdn.app/streams/sport1-baltic.png" tvg-rec="0",Sport1 Baltic
+#EXTGRP:Спорт
+http://s06.wsbof.com/sport1-baltic/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-baltic" tvg-logo="http://static.g-cdn.app/streams/sport2-baltic.png" tvg-rec="0",Sport2 Baltic
+#EXTGRP:Спорт
+http://s06.wsbof.com/sport2-baltic/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://static.g-cdn.app/streams/viasat-sport.png" tvg-rec="0",Viju+ sport
+#EXTGRP:Спорт
+http://s06.wsbof.com/viasat-sport/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport" tvg-logo="http://static.g-cdn.app/streams/evrosport.png" tvg-rec="0",Eurosport 1
+#EXTGRP:Спорт
+http://s06.wsbof.com/evrosport/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport-2" tvg-logo="http://static.g-cdn.app/streams/evrosport-2.png" tvg-rec="0",Eurosport 2
+#EXTGRP:Спорт
+http://s06.wsbof.com/evrosport-2/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="http://static.g-cdn.app/streams/sport1-ua.png" tvg-rec="0",Спорт 1
+#EXTGRP:Спорт
+http://s06.wsbof.com/sport1-ua/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="http://static.g-cdn.app/streams/sport2-ua.png" tvg-rec="0",Спорт 2
+#EXTGRP:Спорт
+http://s06.wsbof.com/sport2-ua/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="xsport" tvg-logo="http://static.g-cdn.app/streams/xsport.png" tvg-rec="0",XSport
+#EXTGRP:Спорт
+http://s06.wsbof.com/xsport/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-tv" tvg-logo="http://static.g-cdn.app/streams/m1-global-tv.png" tvg-rec="0",M-1 Global
+#EXTGRP:Спорт
+http://s06.wsbof.com/m1-global-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec" tvg-logo="http://static.g-cdn.app/streams/match-boec.png" tvg-rec="0",МАТЧ! Боец
+#EXTGRP:Спорт
+http://s06.wsbof.com/match-boec/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="boks-tv" tvg-logo="http://static.g-cdn.app/streams/boks-tv.png" tvg-rec="0",Бокс ТВ
+#EXTGRP:Спорт
+http://s06.wsbof.com/boks-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva" tvg-logo="http://static.g-cdn.app/streams/tochka-otryva.png" tvg-rec="0",Точка Отрыва
+#EXTGRP:Спорт
+http://s06.wsbof.com/tochka-otryva/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="http://static.g-cdn.app/streams/extreme-sports.png" tvg-rec="0",Extreme Sports
+#EXTGRP:Спорт
+http://s06.wsbof.com/extreme-sports/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="http://static.g-cdn.app/streams/avto-plus.png" tvg-rec="0",Авто Плюс
+#EXTGRP:Спорт
+http://s06.wsbof.com/avto-plus/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="avto-24" tvg-logo="http://static.g-cdn.app/streams/avto-24.png" tvg-rec="0",Авто 24
+#EXTGRP:Спорт
+http://s06.wsbof.com/avto-24/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="drive" tvg-logo="http://static.g-cdn.app/streams/drive.png" tvg-rec="0",Драйв
+#EXTGRP:Спорт
+http://s06.wsbof.com/drive/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-ua" tvg-logo="http://static.g-cdn.app/streams/pervyj-avto-ua.png" tvg-rec="0",Первый Автомобильный
+#EXTGRP:Спорт
+http://s06.wsbof.com/pervyj-avto-ua/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir" tvg-logo="http://static.g-cdn.app/streams/detskij-mir.png" tvg-rec="0",Детский мир
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/detskij-mir/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="karusel" tvg-logo="http://static.g-cdn.app/streams/karusel.png" tvg-rec="0",Карусель
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/karusel/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka" tvg-logo="http://static.g-cdn.app/streams/gosti-skazka.png" tvg-rec="0",В гостях у сказки
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/gosti-skazka/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="mult" tvg-logo="http://static.g-cdn.app/streams/mult.png" tvg-rec="0",Мульт
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/mult/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="multimania" tvg-logo="http://static.g-cdn.app/streams/multimania.png" tvg-rec="0",Мультиландия
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/multimania/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="strana" tvg-logo="http://static.g-cdn.app/streams/strana.png" tvg-rec="0",Мультимузыка
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/strana/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids" tvg-logo="http://static.g-cdn.app/streams/ctc-kids.png" tvg-rec="0",СТС Kids
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/ctc-kids/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ryzhij" tvg-logo="http://static.g-cdn.app/streams/ryzhij.png" tvg-rec="0",Рыжий
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/ryzhij/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detksij" tvg-logo="http://static.g-cdn.app/streams/detksij.png" tvg-rec="0",Уникум
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/detksij/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="solnce" tvg-logo="http://static.g-cdn.app/streams/solnce.png" tvg-rec="0",Солнце
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/solnce/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kanal-o" tvg-logo="http://static.g-cdn.app/streams/kanal-o.png" tvg-rec="0",О!
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/kanal-o/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon" tvg-logo="http://static.g-cdn.app/streams/nickelodeon.png" tvg-rec="0",Nickelodeon
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/nickelodeon/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon-us" tvg-logo="http://static.g-cdn.app/streams/nickelodeon-us.png" tvg-rec="0",Nickelodeon Eng
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/nickelodeon-us/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network" tvg-logo="http://static.g-cdn.app/streams/cartoon-network.png" tvg-rec="0",Cartoon Network
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/cartoon-network/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ani" tvg-logo="http://static.g-cdn.app/streams/ani.png" tvg-rec="0",Ani
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/ani/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr" tvg-logo="http://static.g-cdn.app/streams/nickjr.png" tvg-rec="0",Nick Jr
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/nickjr/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr-en" tvg-logo="http://static.g-cdn.app/streams/nickjr-en.png" tvg-rec="0",NickJr Eng
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/nickjr-en/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tiji" tvg-logo="http://static.g-cdn.app/streams/tiji.png" tvg-rec="0",TiJi
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/tiji/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="jimjam" tvg-logo="http://static.g-cdn.app/streams/jimjam.png" tvg-rec="0",JimJam
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/jimjam/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gulli" tvg-logo="http://static.g-cdn.app/streams/gulli.png" tvg-rec="0",Gulli Girl
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/gulli/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="boomerang" tvg-logo="http://static.g-cdn.app/streams/boomerang.png" tvg-rec="0",Cartoonito
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/boomerang/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="2x2" tvg-logo="http://static.g-cdn.app/streams/2x2.png" tvg-rec="0",2x2
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/2x2/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="fan" tvg-logo="http://static.g-cdn.app/streams/fan.png" tvg-rec="0",FAN
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/fan/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="plus-plus2" tvg-logo="http://static.g-cdn.app/streams/plus-plus2.png" tvg-rec="0",ПлюсПлюс
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/plus-plus2/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="pixel-ua" tvg-logo="http://static.g-cdn.app/streams/pixel-ua.png" tvg-rec="0",Піксель
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/pixel-ua/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Мультфильмы" tvg-id="malyatko-tv-ua" tvg-logo="http://static.g-cdn.app/streams/malyatko-tv-ua.png" tvg-rec="0",Малятко TV
+#EXTGRP:Мультфильмы
+http://s06.wsbof.com/malyatko-tv-ua/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="http://static.g-cdn.app/streams/national-geographic.png" tvg-rec="0",National Geographic
+#EXTGRP:Познавательные
+http://s06.wsbof.com/national-geographic/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery" tvg-logo="http://static.g-cdn.app/streams/discovery.png" tvg-rec="0",Discovery Channel
+#EXTGRP:Познавательные
+http://s06.wsbof.com/discovery/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science" tvg-logo="http://static.g-cdn.app/streams/discovery-science.png" tvg-rec="0",Discovery Science
+#EXTGRP:Познавательные
+http://s06.wsbof.com/discovery-science/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx" tvg-logo="http://static.g-cdn.app/streams/dtx.png" tvg-rec="0",DTX
+#EXTGRP:Познавательные
+http://s06.wsbof.com/dtx/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra" tvg-logo="http://static.g-cdn.app/streams/id-xtra.png" tvg-rec="0",Investigation Discovery
+#EXTGRP:Познавательные
+http://s06.wsbof.com/id-xtra/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc" tvg-logo="http://static.g-cdn.app/streams/tlc.png" tvg-rec="0",TLC
+#EXTGRP:Познавательные
+http://s06.wsbof.com/tlc/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="http://static.g-cdn.app/streams/animal-planet.png" tvg-rec="0",Animal planet
+#EXTGRP:Познавательные
+http://s06.wsbof.com/animal-planet/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="http://static.g-cdn.app/streams/nat-geo-wild.png" tvg-rec="0",Nat Geo Wild
+#EXTGRP:Познавательные
+http://s06.wsbof.com/nat-geo-wild/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="http://static.g-cdn.app/streams/viasat-nature.png" tvg-rec="0",Viju nature
+#EXTGRP:Познавательные
+http://s06.wsbof.com/viasat-nature/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explorer" tvg-logo="http://static.g-cdn.app/streams/viasat-explorer.png" tvg-rec="0",Viju explore
+#EXTGRP:Познавательные
+http://s06.wsbof.com/viasat-explorer/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="http://static.g-cdn.app/streams/moya-planeta.png" tvg-rec="0",Моя планета
+#EXTGRP:Познавательные
+http://s06.wsbof.com/moya-planeta/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="http://static.g-cdn.app/streams/zhivaya-planeta.png" tvg-rec="0",Живая Планета
+#EXTGRP:Познавательные
+http://s06.wsbof.com/zhivaya-planeta/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="http://static.g-cdn.app/streams/travel-channel.png" tvg-rec="0",Travel Channel
+#EXTGRP:Познавательные
+http://s06.wsbof.com/travel-channel/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="http://static.g-cdn.app/streams/travel-adventure.png" tvg-rec="0",Travel+Adventure
+#EXTGRP:Познавательные
+http://s06.wsbof.com/travel-adventure/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvija" tvg-logo="http://static.g-cdn.app/streams/teleputeshestvija.png" tvg-rec="0",Телепутешествия
+#EXTGRP:Познавательные
+http://s06.wsbof.com/teleputeshestvija/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="http://static.g-cdn.app/streams/nasha-tema.png" tvg-rec="0",Наша Тема
+#EXTGRP:Познавательные
+http://s06.wsbof.com/nasha-tema/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-tv" tvg-logo="http://static.g-cdn.app/streams/rtg-tv.png" tvg-rec="0",RTG
+#EXTGRP:Познавательные
+http://s06.wsbof.com/rtg-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="http://static.g-cdn.app/streams/ocean-tv.png" tvg-rec="0",Ocean-TV
+#EXTGRP:Познавательные
+http://s06.wsbof.com/ocean-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="morskoj" tvg-logo="http://static.g-cdn.app/streams/morskoj.png" tvg-rec="0",Моя Стихия
+#EXTGRP:Познавательные
+http://s06.wsbof.com/morskoj/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="http://static.g-cdn.app/streams/zoopark.png" tvg-rec="0",Зоопарк
+#EXTGRP:Познавательные
+http://s06.wsbof.com/zoopark/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov" tvg-logo="http://static.g-cdn.app/streams/ohotnik-rybolov.png" tvg-rec="0",Рыболов
+#EXTGRP:Познавательные
+http://s06.wsbof.com/ohotnik-rybolov/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-rybalka" tvg-logo="http://static.g-cdn.app/streams/oxota-rybalka.png" tvg-rec="0",Охота и рыбалка
+#EXTGRP:Познавательные
+http://s06.wsbof.com/oxota-rybalka/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka" tvg-logo="http://static.g-cdn.app/streams/dialogi-rybalka.png" tvg-rec="0",Диалоги о Рыбалке
+#EXTGRP:Познавательные
+http://s06.wsbof.com/dialogi-rybalka/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="http://static.g-cdn.app/streams/oruzhie.png" tvg-rec="0",Оружие
+#EXTGRP:Познавательные
+http://s06.wsbof.com/oruzhie/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoj" tvg-logo="http://static.g-cdn.app/streams/muzhskoj.png" tvg-rec="0",Мужской
+#EXTGRP:Познавательные
+http://s06.wsbof.com/muzhskoj/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="t24" tvg-logo="http://static.g-cdn.app/streams/t24.png" tvg-rec="0",Техно 24
+#EXTGRP:Познавательные
+http://s06.wsbof.com/t24/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="http://static.g-cdn.app/streams/nauka-20.png" tvg-rec="0",Наука
+#EXTGRP:Познавательные
+http://s06.wsbof.com/nauka-20/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning" tvg-logo="http://static.g-cdn.app/streams/da-vinci-learning.png" tvg-rec="0",Da Vinci
+#EXTGRP:Познавательные
+http://s06.wsbof.com/da-vinci-learning/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="history" tvg-logo="http://static.g-cdn.app/streams/history.png" tvg-rec="0",History
+#EXTGRP:Познавательные
+http://s06.wsbof.com/history/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="http://static.g-cdn.app/streams/viasat-history.png" tvg-rec="0",Viju history
+#EXTGRP:Познавательные
+http://s06.wsbof.com/viasat-history/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="istorija" tvg-logo="http://static.g-cdn.app/streams/istorija.png" tvg-rec="0",История
+#EXTGRP:Познавательные
+http://s06.wsbof.com/istorija/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="http://static.g-cdn.app/streams/365-dnej.png" tvg-rec="0",365 Дней
+#EXTGRP:Познавательные
+http://s06.wsbof.com/365-dnej/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="sovershenno-sekretno" tvg-logo="http://static.g-cdn.app/streams/sovershenno-sekretno.png" tvg-rec="0",Top Secret
+#EXTGRP:Познавательные
+http://s06.wsbof.com/sovershenno-sekretno/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="http://static.g-cdn.app/streams/kto-est-kto.png" tvg-rec="0",Кто есть кто
+#EXTGRP:Познавательные
+http://s06.wsbof.com/kto-est-kto/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="teatr-tv" tvg-logo="http://static.g-cdn.app/streams/teatr-tv.png" tvg-rec="0",Театр
+#EXTGRP:Познавательные
+http://s06.wsbof.com/teatr-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="http://static.g-cdn.app/streams/ntv-pravo.png" tvg-rec="0",НТВ Право
+#EXTGRP:Познавательные
+http://s06.wsbof.com/ntv-pravo/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="psihologija-21" tvg-logo="http://static.g-cdn.app/streams/psihologija-21.png" tvg-rec="0",Психология
+#EXTGRP:Познавательные
+http://s06.wsbof.com/psihologija-21/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="http://static.g-cdn.app/streams/zdorovoe-tv.png" tvg-rec="0",Доктор
+#EXTGRP:Познавательные
+http://s06.wsbof.com/zdorovoe-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-otvety" tvg-logo="http://static.g-cdn.app/streams/voprosy-otvety.png" tvg-rec="0",Вопросы и ответы
+#EXTGRP:Познавательные
+http://s06.wsbof.com/voprosy-otvety/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="http://static.g-cdn.app/streams/zhivi.png" tvg-rec="0",Живи
+#EXTGRP:Познавательные
+http://s06.wsbof.com/zhivi/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="mama" tvg-logo="http://static.g-cdn.app/streams/mama.png" tvg-rec="0",Мама
+#EXTGRP:Познавательные
+http://s06.wsbof.com/mama/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="http://static.g-cdn.app/streams/usadba.png" tvg-rec="0",Усадьба
+#EXTGRP:Познавательные
+http://s06.wsbof.com/usadba/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye" tvg-logo="http://static.g-cdn.app/streams/domashnije-zhivotnye.png" tvg-rec="0",Домашние животные
+#EXTGRP:Познавательные
+http://s06.wsbof.com/domashnije-zhivotnye/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="bober" tvg-logo="http://static.g-cdn.app/streams/bober.png" tvg-rec="0",Бобер
+#EXTGRP:Познавательные
+http://s06.wsbof.com/bober/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="tnomer" tvg-logo="http://static.g-cdn.app/streams/tnomer.png" tvg-rec="0",Тномер
+#EXTGRP:Познавательные
+http://s06.wsbof.com/tnomer/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="http://static.g-cdn.app/streams/ntv-style.png" tvg-rec="0",НТВ Стиль
+#EXTGRP:Познавательные
+http://s06.wsbof.com/ntv-style/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="world-fashion" tvg-logo="http://static.g-cdn.app/streams/world-fashion.png" tvg-rec="0",World Fashion
+#EXTGRP:Познавательные
+http://s06.wsbof.com/world-fashion/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="eda" tvg-logo="http://static.g-cdn.app/streams/eda.png" tvg-rec="0",Еда
+#EXTGRP:Познавательные
+http://s06.wsbof.com/eda/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="food-network" tvg-logo="http://static.g-cdn.app/streams/food-network.png" tvg-rec="0",Food Network
+#EXTGRP:Познавательные
+http://s06.wsbof.com/food-network/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="kuxnya-tv" tvg-logo="http://static.g-cdn.app/streams/kuxnya-tv.png" tvg-rec="0",Кухня ТВ
+#EXTGRP:Познавательные
+http://s06.wsbof.com/kuxnya-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="http://static.g-cdn.app/streams/telekafe.png" tvg-rec="0",Телекафе
+#EXTGRP:Познавательные
+http://s06.wsbof.com/telekafe/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv" tvg-logo="http://static.g-cdn.app/streams/muz-tv.png" tvg-rec="0",Муз-ТВ
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/muz-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="http://static.g-cdn.app/streams/muzyka-pervogo.png" tvg-rec="0",Музыка Первого
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/muzyka-pervogo/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv" tvg-logo="http://static.g-cdn.app/streams/evropa-plus-tv.png" tvg-rec="0",Europa Plus TV
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/evropa-plus-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-gold" tvg-logo="http://static.g-cdn.app/streams/music-box-gold.png" tvg-rec="0",Music Box Gold
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/music-box-gold/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-russian" tvg-logo="http://static.g-cdn.app/streams/music-box-russian.png" tvg-rec="0",Russian MusicBox
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/music-box-russian/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="http://static.g-cdn.app/streams/tnt-music.png" tvg-rec="0",ТНТ Music
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/tnt-music/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara" tvg-logo="http://static.g-cdn.app/streams/zhara.png" tvg-rec="0",Жара
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/zhara/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="http://static.g-cdn.app/streams/ru-tv.png" tvg-rec="0",RU TV
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/ru-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="http://static.g-cdn.app/streams/bridge-tv.png" tvg-rec="0",Bridge TV
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/bridge-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="rusong-tv" tvg-logo="http://static.g-cdn.app/streams/rusong-tv.png" tvg-rec="0",BRIDGE TV Русский Хит
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/rusong-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-classic" tvg-logo="http://static.g-cdn.app/streams/bridge-classic.png" tvg-rec="0",Bridge TV Classic
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/bridge-classic/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="dance-tv" tvg-logo="http://static.g-cdn.app/streams/dance-tv.png" tvg-rec="0",Bridge TV Hits
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/dance-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-fresh" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-fresh.png" tvg-rec="0",Bridge TV Rock
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/bridge-tv-fresh/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-shlager" tvg-logo="http://static.g-cdn.app/streams/bridge-tv-shlager.png" tvg-rec="0",Bridge TV Шлягер
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/bridge-tv-shlager/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="http://static.g-cdn.app/streams/la-minor.png" tvg-rec="0",Ля-минор
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/la-minor/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="http://static.g-cdn.app/streams/shanson-tv.png" tvg-rec="0",Шансон ТВ
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/shanson-tv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-europe" tvg-logo="http://static.g-cdn.app/streams/mtv-europe.png" tvg-rec="0",MTV Europe
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/mtv-europe/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-hits" tvg-logo="http://static.g-cdn.app/streams/mtv-hits.png" tvg-rec="0",MTV Hits
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/mtv-hits/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="club-mtv" tvg-logo="http://static.g-cdn.app/streams/club-mtv.png" tvg-rec="0",Club MTV
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/club-mtv/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="http://static.g-cdn.app/streams/vh1-europe.png" tvg-rec="0",MTV 00s
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/vh1-europe/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="http://static.g-cdn.app/streams/mtv-rocks.png" tvg-rec="0",MTV 90s
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/mtv-rocks/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-80s" tvg-logo="http://static.g-cdn.app/streams/mtv-80s.png" tvg-rec="0",MTV 80s
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/mtv-80s/video.m3u8?token=cf436bbb
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm" tvg-logo="http://static.g-cdn.app/streams/mcm.png" tvg-rec="0",MCM TOP
+#EXTGRP:Музыкальные
+http://s06.wsbof.com/mcm/video.m3u8?token=cf436bbb
